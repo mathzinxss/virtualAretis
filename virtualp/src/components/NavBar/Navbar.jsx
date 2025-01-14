@@ -31,8 +31,8 @@ const Navbar = () => {
                         <a href="#" className="bg-gradient-to-r from-orange-500 to-orange-800 py-2 px-3 rounded-md"> Create an account </a>
                     </div>
                     <div className="lg:hidden md:flex flex-col justify-end">
-                        <button onClick={toggleNavbar}>
-                            {mobileDrawerOpen ? < X /> : < Menu />}
+                        <button onClick={toggleNavbar} className='transition-transform duration-300 ease-in-out transform'>
+                            {mobileDrawerOpen ? < X className='rotate-180'/> : < Menu className='rotate-0'/>}
                         </button>
                     </div>
                 </div>
