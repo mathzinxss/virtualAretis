@@ -1,7 +1,7 @@
 import React from 'react'
 import './index.css'
-import Navbar from './components/NavBar/Navbar'
-import Hero from './components/Hero/Hero'
+import Navbar from './components/NavbarSection/Navbar'
+import Hero from './components/HeroSection/Hero'
 import Features from './components/FeatureSection/Feature'
 
 

@@ -21,101 +21,101 @@ export const navItems = [
 export const testimonials = [
   {
     user: "John Doe",
-    company: "Stellar Solutions",
+    company: "Soluções Estelares",
     image: user1,
-    text: "I am extremely satisfied with the services provided. The team was responsive, professional, and delivered results beyond my expectations.",
+    text: "Estou extremamente satisfeito com os serviços prestados. A equipe foi ágil, profissional e entregou resultados além das minhas expectativas.",
   },
   {
     user: "Jane Smith",
-    company: "Blue Horizon Technologies",
+    company: "Tecnologias Horizonte Azul",
     image: user2,
-    text: "I couldn't be happier with the outcome of our project. The team's creativity and problem-solving skills were instrumental in bringing our vision to life",
+    text: "Não poderia estar mais feliz com o resultado do nosso projeto. A criatividade e as habilidades de resolução de problemas da equipe foram fundamentais para dar vida à nossa visão",
   },
   {
     user: "David Johnson",
-    company: "Quantum Innovations",
+    company: "Inovações Quânticas",
     image: user3,
-    text: "Working with this company was a pleasure. Their attention to detail and commitment to excellence are commendable. I would highly recommend them to anyone looking for top-notch service.",
+    text: "Trabalhar com esta empresa foi um prazer. Sua atenção aos detalhes e comprometimento com a excelência são louváveis. Eu os recomendaria fortemente a qualquer um que esteja procurando por um serviço de primeira linha.",
   },
   {
     user: "Ronee Brown",
-    company: "Fusion Dynamics",
+    company: "Dinâmica de Fusão",
     image: user4,
-    text: "Working with the team at XYZ Company was a game-changer for our project. Their attention to detail and innovative solutions helped us achieve our goals faster than we thought possible. We are grateful for their expertise and professionalism!",
+    text: "Trabalhar com a equipe da XYZ Company foi um divisor de águas para o nosso projeto. Sua atenção aos detalhes e soluções inovadoras nos ajudaram a atingir nossos objetivos mais rápido do que pensávamos ser possível. Somos gratos por sua expertise e profissionalismo!",
   },
   {
     user: "Michael Wilson",
-    company: "Visionary Creations",
+    company: "Criações Visionárias",
     image: user5,
-    text: "I am amazed by the level of professionalism and dedication shown by the team. They were able to exceed our expectations and deliver outstanding results.",
+    text: "Estou impressionado com o nível de profissionalismo e dedicação demonstrados pela equipe. Eles conseguiram superar nossas expectativas e entregar resultados excelentes.",
   },
   {
     user: "Emily Davis",
-    company: "Synergy Systems",
+    company: "Sistemas de Sinergia",
     image: user6,
-    text: "The team went above and beyond to ensure our project was a success. Their expertise and dedication are unmatched. I look forward to working with them again in the future.",
+    text: "A equipe se esforçou ao máximo para garantir que nosso projeto fosse um sucesso. Sua expertise e dedicação são inigualáveis. Estou ansioso para trabalhar com eles novamente no futuro.",
   },
 ];
 
 export const features = [
   {
     icon: <BotMessageSquare />,
-    text: "Drag-and-Drop Interface",
+    text: "Interface de arrastar e soltar",
     description:
-      "Easily design and arrange your VR environments with a user-friendly drag-and-drop interface.",
+      "Crie e organize facilmente seus ambientes de RV com uma interface de arrastar e soltar fácil de usar.",
   },
   {
     icon: <Fingerprint />,
-    text: "Multi-Platform Compatibility",
+    text: "Compatibilidade multiplataforma",
     description:
-      "Build VR applications that run seamlessly across multiple platforms, including mobile, desktop, and VR headsets.",
+      "Crie aplicativos de RV que funcionem perfeitamente em diversas plataformas, incluindo dispositivos móveis, desktops e headsets de RV.",
   },
   {
     icon: <ShieldHalf />,
-    text: "Built-in Templates",
+    text: "Modelos integrados",
     description:
-      "Jumpstart your VR projects with a variety of built-in templates for different types of applications and environments.",
+      "Inicie seus projetos de RV com uma variedade de modelos integrados para diferentes tipos de aplicativos e ambientes.",
   },
   {
     icon: <BatteryCharging />,
-    text: "Real-Time Preview",
+    text: "Pré-visualização em tempo real",
     description:
-      "Preview your VR application in real-time as you make changes, allowing for quick iterations and adjustments.",
+      "Visualize seu aplicativo de RV em tempo real enquanto faz alterações, permitindo iterações e ajustes rápidos.",
   },
   {
     icon: <PlugZap />,
-    text: "Collaboration Tools",
+    text: "Ferramentas de colaboração",
     description:
-      "Work together with your team in real-time on VR projects, enabling seamless collaboration and idea sharing.",
+      "Trabalhe em conjunto com sua equipe em tempo real em projetos de RV, permitindo colaboração e compartilhamento de ideias perfeitos.",
   },
   {
     icon: <GlobeLock />,
-    text: "Analytics Dashboard",
+    text: "Painel analítico",
     description:
-      "Gain valuable insights into user interactions and behavior within your VR applications with an integrated analytics dashboard.",
+      "Obtenha insights valiosos sobre as interações e o comportamento do usuário em seus aplicativos de RV com um painel de análise integrado.",
   },
 ];
 
 export const checklistItems = [
   {
-    title: "Code merge made easy",
+    title: "Mesclagem de código facilitada",
     description:
-      "Track the performance of your VR apps and gain insights into user behavior.",
+      "Monitore o desempenho dos seus aplicativos de RV e obtenha insights sobre o comportamento do usuário.",
   },
   {
-    title: "Review code without worry",
+    title: "Revise o código sem se preocupar",
     description:
-      "Track the performance of your VR apps and gain insights into user behavior.",
+      "Monitore o desempenho dos seus aplicativos de RV e obtenha insights sobre o comportamento do usuário.",
   },
   {
-    title: "AI Assistance to reduce time",
+    title: "Assistência de IA para reduzir o tempo",
     description:
-      "Track the performance of your VR apps and gain insights into user behavior.",
+      "Monitore o desempenho dos seus aplicativos de RV e obtenha insights sobre o comportamento do usuário.",
   },
   {
-    title: "Share work in minutes",
+    title: "Compartilhe trabalho em minutos",
     description:
-      "Track the performance of your VR apps and gain insights into user behavior.",
+      "Monitore o desempenho dos seus aplicativos de RV e obtenha insights sobre o comportamento do usuário.",
   },
 ];
 
@@ -153,25 +153,25 @@ export const pricingOptions = [
 ];
 
 export const resourcesLinks = [
-  { href: "#", text: "Getting Started" },
-  { href: "#", text: "Documentation" },
-  { href: "#", text: "Tutorials" },
-  { href: "#", text: "API Reference" },
-  { href: "#", text: "Community Forums" },
+  { href: "#", text: "Começando" },
+  { href: "#", text: "Documentação" },
+  { href: "#", text: "Tutoriais" },
+  { href: "#", text: "Referência de API" },
+  { href: "#", text: "Fóruns da comunidade" },
 ];
 
 export const platformLinks = [
-  { href: "#", text: "Features" },
-  { href: "#", text: "Supported Devices" },
-  { href: "#", text: "System Requirements" },
+  { href: "#", text: "Características" },
+  { href: "#", text: "Dispositivos Suportados" },
+  { href: "#", text: "Requisitos do sistema" },
   { href: "#", text: "Downloads" },
-  { href: "#", text: "Release Notes" },
+  { href: "#", text: "Notas de versão" },
 ];
 
 export const communityLinks = [
-  { href: "#", text: "Events" },
-  { href: "#", text: "Meetups" },
-  { href: "#", text: "Conferences" },
+  { href: "#", text: "Eventos" },
+  { href: "#", text: "Encontros" },
+  { href: "#", text: "Conferências" },
   { href: "#", text: "Hackathons" },
-  { href: "#", text: "Jobs" },
+  { href: "#", text: "Trabalhos" },
 ];
