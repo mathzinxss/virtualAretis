@@ -5,7 +5,7 @@ import Hero from './components/HeroSection/Hero'
 import Features from './components/FeatureSection/Feature'
 import Workflow from './components/WorkflowSection/Workflow'
 import Pricing from './components/PricingSection/Pricing'
-
+import Testimonials from './components/TestimonialsSection/Testimonials'
 
 const App = () => {
   return (
@@ -16,6 +16,7 @@ const App = () => {
         <Features />
         <Workflow />
         <Pricing />
+        <Testimonials />
       </div>
 
 
