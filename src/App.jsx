@@ -11,10 +11,10 @@ import Footer from './components/FooterSection/Footer'
 const App = () => {
   return (
     <>
-      <Hero />
+      <Navbar />
       <div className="max-w-7xl mx-auto px-20">
-        <Navbar />
         <Features />
+        <Hero />
         <Workflow />
         <Pricing />
         <Testimonials />
