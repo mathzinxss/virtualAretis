@@ -11,9 +11,9 @@ import Footer from './components/FooterSection/Footer'
 const App = () => {
   return (
     <>
-      <Navbar />
+      <Hero />
       <div className="max-w-7xl mx-auto px-20">
-        <Hero />
+        <Navbar />
         <Features />
         <Workflow />
         <Pricing />
